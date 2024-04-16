@@ -1,0 +1,9 @@
+{
+    "grammarly.selectors": [
+        {
+            "language": "python",
+            "scheme": "vscode-notebook-cell",
+            "pattern": "c:\\Users\\tomne\\Documents\\work\\projecten\\VLAIO23\\content\\taal\\intro_murder_mistery\\geheimschrift\\geheimschrift.ipynb"
+        }
+    ]
+}
